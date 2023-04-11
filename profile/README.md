@@ -13,7 +13,7 @@ What is not implemented:
 - Rendering performance for the conversation can be improved
 - Some bugs are not fixed
 
-You are free to submit PRs and make forks.
+Feel free to submit PRs and make forks.
 
 ## Demo
 [![Demo](https://img.youtube.com/vi/3ZJGMk3eBqk/0.jpg)](https://youtu.be/3ZJGMk3eBqk)
